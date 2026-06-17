@@ -1,0 +1,44 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/WanderPak_Project-main/mainpage.html"
+    },
+    {
+      "source": "/index.html",
+      "destination": "/WanderPak_Project-main/mainpage.html"
+    },
+    {
+      "source": "/mainpage.html",
+      "destination": "/WanderPak_Project-main/mainpage.html"
+    },
+    {
+      "source": "/karachi.html",
+      "destination": "/WanderPak_Project-main/karachi.html"
+    },
+    {
+      "source": "/lahore.html",
+      "destination": "/WanderPak_Project-main/lahore.html"
+    },
+    {
+      "source": "/islamabad.html",
+      "destination": "/WanderPak_Project-main/islamabad.html"
+    },
+    {
+      "source": "/murree.html",
+      "destination": "/WanderPak_Project-main/murree.html"
+    },
+    {
+      "source": "/style.css",
+      "destination": "/WanderPak_Project-main/style.css"
+    },
+    {
+      "source": "/script.js",
+      "destination": "/WanderPak_Project-main/script.js"
+    },
+    {
+      "source": "/images/:path*",
+      "destination": "/WanderPak_Project-main/images/:path*"
+    }
+  ]
+}
